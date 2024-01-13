@@ -1,2 +1,1 @@
-# PrepCourse
-Prueba de Github | módulo 2 
+Este proyecto es una prueba de github
