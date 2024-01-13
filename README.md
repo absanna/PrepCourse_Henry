@@ -1,2 +1,2 @@
-# PrepCourse_Henry
+# PrepCourse
 Prueba de Github | módulo 2 
